@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="pedrofranc25@gmail.com" target="_blank">
+  <a href="mailto:pedrofranc25@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="http://www.linkedin.com/in/pedro-franco-b7b51b21b" target="_blank">
@@ -51,6 +51,7 @@
   </a>
   <a href="pedrofranc_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <p>pedrofranc_</p>
   </a>
 </div>
 
